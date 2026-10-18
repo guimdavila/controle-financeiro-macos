@@ -45,6 +45,7 @@
         }
       ],
       "category": "public.app-category.finance"
-    }
+    },
+    "artifactName": "Controle-financeiro-${version}.${ext}"
   }
 }
